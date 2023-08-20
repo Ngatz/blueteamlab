@@ -11,3 +11,17 @@ I'm used 3 Server to create blue team lab. First is dummy server farm that insta
 3. Suricata (NIDS - Network Intrusion Detection System)
 
 ## Requirement
+### ELK Server
+1. RAM 4GB
+2. 2 Core
+3. Storage 50GB
+
+### Suricata Server
+1. RAM 4GB
+2. 2 Core
+3. Storage 50GB
+
+### Dummy Server Farm
+1. RAM 2GB
+2. 2 Core
+3. Storage 50GB
