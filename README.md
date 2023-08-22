@@ -3,7 +3,7 @@ This project contains documentation to create a blue team lab consisting of seve
 
 ## Blue Team Topology
 I'm used 3 **Virtual Server** to create blue team lab. First is dummy server farm that installed elastic agent for HIDS, second suricata server for NIDS, and last for ELK server. Security Analyst can see all of activity on server farm and network using ELK dashboard.
-![alt text](https://github.com/Ngatz/blueteamlab/blob/main/Blue%20Team%20Lab%20Topology.png)
+![alt text](https://github.com/Ngatz/blueteamlab/blob/main/Lab%20Topology.png)
 
 ## Blue Team Tools
 1. ELK stack (SIEM - Security Information and Event Management)
