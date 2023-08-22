@@ -11,6 +11,11 @@ I'm used 3 **Virtual Server** to create blue team lab. First is dummy server far
 3. Suricata (NIDS - Network Intrusion Detection System)
 
 ## Requirement
+###pfSenses Server
+1. Ram 4GB
+2. 2 Core
+3. Storage 20GB
+
 ### ELK Server
 1. RAM 4GB
 2. 2 Core
