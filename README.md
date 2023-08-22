@@ -6,9 +6,10 @@ I'm used 3 **Virtual Server** to create blue team lab. First is dummy server far
 ![alt text](https://github.com/Ngatz/blueteamlab/blob/main/Lab%20Topology.png)
 
 ## Blue Team Tools
-1. ELK stack (SIEM - Security Information and Event Management)
-2. Elastic agent (HIDS - Host Intrusion Detection System)
-3. Suricata (NIDS - Network Intrusion Detection System)
+1. pfSense Community
+2. ELK stack (SIEM - Security Information and Event Management)
+3. Elastic agent (HIDS - Host Intrusion Detection System)
+4. Suricata (NIDS - Network Intrusion Detection System)
 
 ## Requirement
 ### pfSenses Server
