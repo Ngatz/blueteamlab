@@ -25,3 +25,6 @@ I'm used 3 **Virtual Server** to create blue team lab. First is dummy server far
 1. RAM 2GB
 2. 2 Core
 3. Storage 50GB
+
+## Installation
+Detail of installation security perimeter you can read on my [wiki](https://github.com/Ngatz/blueteamlab/wiki/Installation-Lab)
